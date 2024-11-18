@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Punto 2/Punto 2.iml" filepath="$PROJECT_DIR$/Punto 2/Punto 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Punto 3/Punto 3.iml" filepath="$PROJECT_DIR$/Punto 3/Punto 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/tp relaciones.iml" filepath="$PROJECT_DIR$/tp relaciones.iml" />
     </modules>
   </component>
